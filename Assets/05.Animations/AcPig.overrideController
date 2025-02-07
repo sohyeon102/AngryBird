@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AcPig
+  m_Controller: {fileID: 9100000, guid: ed63098aec99a6b4a98167ddeef6f180, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3135892c9a85ea54abfae04fd52a60e8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3b074414b9bfb214793991f1c13cbd10, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 44303ff85a308fd4c9cc1588b0934574, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 44303ff85a308fd4c9cc1588b0934574, type: 2}

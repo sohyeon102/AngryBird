@@ -1,0 +1,5551 @@
+fileFormatVersion: 2
+guid: 00e4c40d3d7714243add14529dc44d1b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1564
+        width: 562
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f1d04c7e14864e8cdf8ff252e320b
+      internalID: 1985542396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1988
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068aa48b73955334c820ee41a81badb5
+      internalID: -1942621263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1971
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c61984d40ec2c84797c9a1d9fd02c10
+      internalID: 1673640487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_3
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2012
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1a48b6767b134aad6ecda1f25cb5f
+      internalID: 1218796552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_4
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1971
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a2b6685b3b76a44b70abfb151f97fc
+      internalID: 1612176583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_5
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1971
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb43503d36edf2479eb498d4aca6922
+      internalID: -1024720944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_6
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1971
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b3d8878f552a045bac7275fbfe57a0
+      internalID: 1899788320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_7
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1971
+        width: 276
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb443ede060383439ea82339f02248c
+      internalID: 126398929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_8
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1882
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4dd4256da466d4bbfc0038d1f99e36
+      internalID: -791040957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_9
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1967
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c59e6f4734458f4fac7c3e20bd02bb3
+      internalID: -317777279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_10
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1973
+        width: 241
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c11f2521610c48b7b6347911eab43
+      internalID: 1756992981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_11
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1963
+        width: 166
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f911f2b71f37944902adfa6b58e32d
+      internalID: 451045385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_12
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1885
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073aa1ff967cb404a8b477fe9442dd3c
+      internalID: 1216280330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_13
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1839
+        width: 168
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b40b218ecb20479eb2d5094add6d4
+      internalID: -285514694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_14
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1654
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668823d0a0cf9424998ac0cfa77ff1e0
+      internalID: -183815405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_15
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1898
+        width: 200
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3a87f016c763e4e9f4e502936e4dda
+      internalID: 1797448526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_16
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1880
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1813f279ae7757d4e9659d9b096ec731
+      internalID: 2027752305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_17
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1920
+        width: 93
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ddd594d010bf438e0dac5d75279f6
+      internalID: -122456212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_18
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1846
+        width: 122
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ed3411a8f5e924db7ecc88395854ef
+      internalID: 415564818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1846
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c594a0d9985f13b4a9bce59c6cc1ff8b
+      internalID: 1397394937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_20
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1823
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615b9f2a47fdbe45be525e612aff999
+      internalID: 1768704193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_21
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1737
+        width: 127
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c223069aea0660141abf2c4224efdec1
+      internalID: 2142363533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1322
+        width: 41
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f3416c96ad7d9458482a9fd7db87fe
+      internalID: -1350711583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1300
+        width: 84
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc296a9dc2e588c47b4116888b43e350
+      internalID: -1341746333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1335
+        width: 107
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2893d0ebc501a04692c5da2e6c95706
+      internalID: 622770676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1395
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b9f54c24308e5428958cd7e4627a8e
+      internalID: 915063062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1396
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8fecdb8079b9d4590806e3ae4dd2d1
+      internalID: 160594314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1397
+        width: 173
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df72ef72106fa458cf7e4e527aa00a
+      internalID: -1642952075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_28
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1340
+        width: 148
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c9f126c0e1de742834da58d946d5d9
+      internalID: 1834567253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_29
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1397
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c77cf278cd6cd4fbc6f7e9a9cd3e0e
+      internalID: 1731926257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_30
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1177
+        width: 100
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ce129f38b05624aa570fbf46a7a727
+      internalID: -1382762786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_31
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1301
+        width: 177
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b212192cc9f59243afb5b0b779055ad
+      internalID: -268140482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_32
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1810
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e313a2846c4e44f93d0345c5d30e27
+      internalID: -1959131379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_33
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1883
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fedd58b212e244985f2291523492bf
+      internalID: -324272960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_34
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1883
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972e693db348914b9e6407060505281
+      internalID: -25797945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_35
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1352
+        width: 107
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b99ab155c298408b6b6c410200169
+      internalID: 1158302983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_36
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1389
+        width: 32
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90adbad676effd4449206dd9af79a04b
+      internalID: 809166108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_37
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1389
+        width: 31
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aecbf788f19e74468d9f84561698f40
+      internalID: -573179536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_38
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1338
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae0783921e97c4482e44ea385ad005
+      internalID: -765476412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1341
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12136c45c101cb842b451c5380f511a4
+      internalID: -1547701621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_40
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1339
+        width: 135
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d8e8b487691d541ad5626c144e0065
+      internalID: 108561396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1339
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd3b0dbb08a60b408ba5a3a55230442
+      internalID: -1871858972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_42
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1341
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4dd365bcb2ae144bbca27e7fbf2e1d
+      internalID: 1058735709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_43
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1342
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c128da52a897bd84fa09f4d1e757399f
+      internalID: -1851681549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_44
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1344
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3638b17ca86d6d24aa647c13ebff5c09
+      internalID: -1207152487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_45
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1328
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9899f3fe52cd17c48a643fe61a543554
+      internalID: 704535033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1230
+        width: 32
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483bb5d292f109645b5b6b10c61c73f6
+      internalID: -1527972048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1161
+        width: 86
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8705dbd351452a478680464099efd8e
+      internalID: -1727830364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_48
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1075
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dcc4f4a3a340e45ad3f779d480817c
+      internalID: -486531326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_49
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1218
+        width: 142
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c1ef73c3baf54da05adcc3cf7c7e9
+      internalID: 1090814371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_50
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1112
+        width: 380
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a59740ec06bf8b4c85157870d4ded59
+      internalID: -1977575797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_51
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1226
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbda9a2d2489c14c984215089ebc377
+      internalID: 371812452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_52
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1138
+        width: 172
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfae0596824f6947b06e41a088fdb15
+      internalID: 1604867924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_53
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1208
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71e31dc9f97c94baced55332e316f6
+      internalID: 951232499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_54
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1209
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873a615fc2830c1498d0c9223b818b3b
+      internalID: -1549204102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_55
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1212
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4462afe6373b48af182790a95e012
+      internalID: -2020762671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_56
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1236
+        width: 130
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928b5a9acaf67fb4bac16cef61775b24
+      internalID: -2068624288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_57
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1284
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deffbf8121b79447ac6a045c1e1aa03
+      internalID: -103964396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_58
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1236
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaa8b13cefc3ec4c8aa122a47d85dc2
+      internalID: -1043520713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_59
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1140
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f878b654194b1c64d99bb69990151e9d
+      internalID: 568231106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1007
+        width: 66
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b64dcb1e688140a05d9aeea7dad2d
+      internalID: -244133875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_61
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1118
+        width: 223
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa3469316b2b69448e7d63243ca5832
+      internalID: -1314439763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_62
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1012
+        width: 83
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab7a980327a9514f983b04008078f1f
+      internalID: 1677525397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_63
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1022
+        width: 223
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8fcbbcbc102d44bb26af0e8c460b29
+      internalID: 1642235440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_64
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1110
+        width: 194
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2137a0f1a02c440a143876dc230b41
+      internalID: -985320568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_65
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1116
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a88808e1662e7b409de6729cb187d2f
+      internalID: 938930264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_66
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1136
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48967d097130b3c48af96d0152a4adc4
+      internalID: 1134529286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_67
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 962
+        width: 25
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65570390ba3f5af47be91cda5a58a713
+      internalID: -170319061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1048
+        width: 17
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804c98c35402f0438bbcc7693bb69bd
+      internalID: 406638453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1030
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a75a0a0006d27448364e3cdd51b5bc
+      internalID: 2108676166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_70
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 846
+        width: 216
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f161d996589874c40a15bd7b677dc0af
+      internalID: -1061888688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_71
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1024
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a3324ae8d7288479117b011e80a9ea
+      internalID: 798238559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_72
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1022
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4ce6c57e29aec40910f194b011b1b3
+      internalID: -1097803580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_73
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1025
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98b35d4f37387144b30ffa51ce9334c
+      internalID: 1754514995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_74
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1024
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413c11bd157a3d541bccaf27cf9ec582
+      internalID: -620689124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_75
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1030
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90647d75180317f47b5c50c654d29cce
+      internalID: 1926223602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_76
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 974
+        width: 168
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da28645bc8b3ac746983b4c7ec625586
+      internalID: -853103771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_77
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1019
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df920cf91b6a6fc49ae97f85c967245e
+      internalID: 373577969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_78
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1043
+        width: 210
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7f4b4d0d4b1374d9fcda19324653f6
+      internalID: 2052639202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_79
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1043
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de495fca928a484cbf53802e8b947f8
+      internalID: 1060211900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_80
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 828
+        width: 77
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712f64ad2759da14894e3a4bef129c45
+      internalID: 377350407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_81
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 918
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecb86192fb51214187c33a19ea29dd9
+      internalID: 1352699993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_82
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 919
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc0c0cee75245540ae2f8f351a2a14e
+      internalID: -1983460444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_83
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 919
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcead6b4bd372844a7e532c35682edd
+      internalID: -437310145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_84
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 936
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ed80e2c9c5dc54d8c8fda68ffe7717
+      internalID: 1599676907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_85
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 940
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4323b07e11532b46b9253a63759e322
+      internalID: -603734550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_86
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 940
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563e4b44a4caba646844957d9c23bdfb
+      internalID: -1971524964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_87
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 873
+        width: 52
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934540622a0234f4e97a4a74add13688
+      internalID: 444587803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_88
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 893
+        width: 32
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474c9a683cfcc064e98053f7d1466174
+      internalID: 1291262780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_89
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 960
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43391fa1a97da9942a2e2b97774686de
+      internalID: -753691965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_90
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 750
+        width: 88
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a57172d41207747946e0e9860fd877
+      internalID: 889333427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_91
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 937
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e6c5de30edb30408f73946c9b9ec66
+      internalID: -1177740508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_92
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 962
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fde9ac3f7d21f7478d761beae15cc2e
+      internalID: 487631208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_93
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 964
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d9c08b4cf24c4689087dcc37d437f
+      internalID: -1328330742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_94
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 978
+        width: 132
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f2adb5f53d9b4d9390baeb40da556
+      internalID: 1876661679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_95
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 978
+        width: 129
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5498dcc38af054e9b710e18935e541
+      internalID: -1049557690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_96
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 887
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bfb3883bab76d4090d1ad56b4524fd
+      internalID: 535855694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_97
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 816
+        width: 313
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dbfffadb017184d820c524ed96be6c
+      internalID: 218281720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_98
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 854
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6157ae803928c94bb3013433e5948c5
+      internalID: 1655683007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_99
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 856
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9991de8e9cf90b948be2406c0620ba73
+      internalID: -1331750860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_100
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 856
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd200eab68fd23846a4d933d644090c2
+      internalID: -1437207337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_101
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 891
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c36f1059ea70fb4fb9adee841eacbb2
+      internalID: 155869795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_102
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 811
+        width: 147
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513f1e2a1bd1784181002371606cdcc
+      internalID: 821765231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_103
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 865
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fb908eea5db02499824ff40c3dc2a6
+      internalID: 429342758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_104
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 897
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e8340f706c5f4f8186d12ace49313
+      internalID: -991188317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_105
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 914
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908305c3133ba8f438c8a18a6ab0ba2a
+      internalID: 974212653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_106
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 914
+        width: 138
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a861da6e8a88d45b86f2ae5aacd26b
+      internalID: -1066032080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_107
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 919
+        width: 190
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b895de575a5b454ab84bd024a08f477
+      internalID: -1011681888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_108
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 782
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355208d94191ef244b5f7708f5e40075
+      internalID: -1039773432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_109
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 781
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a880defc0f03242960c778db2f9e19
+      internalID: -742557706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_110
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 725
+        width: 55
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd880e16c6f2ffd47a4afa0f967b6f3c
+      internalID: -1634959123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_111
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 795
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab71e32def54c4e82607a1ef99dfdf
+      internalID: -1981294251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_112
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 761
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d7c4c520dbf144c8322b774969472c
+      internalID: 1204014124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_113
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 849
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55e3d60e00ff6646bf292087c9a5702
+      internalID: -310893308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_114
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 852
+        width: 138
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a617d10c8694e74bb8123ea0c69c64d
+      internalID: -827465189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_115
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 784
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b688cfb66cb44e8199bf325ceafc1
+      internalID: -678210083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_116
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 701
+        width: 43
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934bb05c20089454484ba4baa72cb527
+      internalID: -1897793847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_117
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 798
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4d02af39248dd47aeb9dcd66da4c45
+      internalID: 1828054550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_118
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 798
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba486e18e47a9764fb37d60776d49c3a
+      internalID: 387836365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_119
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 523
+        width: 179
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4683958e5f9418848a5771f1625a44c9
+      internalID: -549040345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_120
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 739
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16657f27094040a499e0339d0a803276
+      internalID: 427716448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_121
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 736
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd6338b116cf446aedffe9137ebffd
+      internalID: 843110696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_122
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 760
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427157cd057c51a4baac5879923f2555
+      internalID: 1527945274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_123
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 781
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d5ad0b6371fbe49b6868feb6133a79
+      internalID: -1817482316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_124
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 784
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c3997a7663cc478a95f0d332d08a9
+      internalID: -1428026587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_125
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 589
+        width: 79
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85216348399d842458e873849eee99fe
+      internalID: -879684341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_126
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 790
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0bd85ca0c9ea64a80a69f354e5be32
+      internalID: -854935502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_127
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 791
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93582caf390b6a4468116270a45c5597
+      internalID: -495525166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_128
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 725
+        width: 121
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9778df158115ee74abfc07c4d79ad49b
+      internalID: -938273094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_129
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 750
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f80d9a04513b5c4595acb468fd69019
+      internalID: -822926820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_130
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 791
+        width: 138
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93480acd52d13b418116ba45415f16c
+      internalID: -1509845367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_131
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 752
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e61e0fdd4397f48894543688457915
+      internalID: 1810879569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_132
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 671
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2c8c1e3e4a3c049ab6a6b1007fe41c
+      internalID: 1863716472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_133
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 708
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2768378c1962d340bc8a1b2eaf76d40
+      internalID: -1840495004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_134
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 716
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce6b9b526b70f4f95449b08fedce92
+      internalID: -468617239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_135
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 721
+        width: 139
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b7af3ca6b6cbf4e8f86861e345e386
+      internalID: -905505422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_136
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 740
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7723a91eac7b9844b6b62cf23db1313
+      internalID: -1177091510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_137
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 732
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e1a4e8e757bfa4691d2437db0d30ee
+      internalID: 1167038379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_138
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 727
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357d3f1eebf3d3e4e9b0539700cb360f
+      internalID: -1136063505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_139
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 729
+        width: 138
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517b25c33eacd2f46b2f3cc78f4a9154
+      internalID: 1152911284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_140
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 721
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c1fdd87d041964094bc2d739f3d59c
+      internalID: 1873888026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_141
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 731
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893be4e6abda88b4498dccff4fe023cb
+      internalID: -220001086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_142
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 648
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f36fdb3f4a1b9646ae2f4b866a3c91d
+      internalID: -323384730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_143
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 691
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def28fb5ea79e444db7b19d6c7f8f602
+      internalID: 2066954866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_144
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 530
+        width: 43
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8ea95cc7fbb1c498c3790c8ad6b11c
+      internalID: -1920680523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_145
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 637
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b10fe9b431524d8b95ffe0d5077d3
+      internalID: -1243618996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_146
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 649
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d7db6c37c65f4d992d52c06ff44ea
+      internalID: -602588863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_147
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 658
+        width: 139
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89382bbec260a3847bbd2ff78c9e820c
+      internalID: 59388127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_148
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 675
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a088f1eada2ee741b842d47d255ee39
+      internalID: -532871589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_149
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 660
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4384377b7a3357142be555d52b6522e4
+      internalID: -1901289693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_150
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 585
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a6450142f93e459e80358aa1979d9
+      internalID: -2050423339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_151
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 363
+        width: 325
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546ece8735daf44b8c0fdd074361ee6
+      internalID: -1284666375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_152
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 363
+        width: 323
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c311b4ec2ac949f45bb71ff732af6482
+      internalID: -1825643612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_153
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 364
+        width: 310
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffa1faef0de3bd419c1dc5fc1b49b1b
+      internalID: 1897457518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_154
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 553
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb8f34b800f39742811639e92aecf7c
+      internalID: -1833639797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_155
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 559
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3985378d9be5434291f6fa53c7edb99
+      internalID: 1188981559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_156
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 572
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb994ade18440af46904080b9739312c
+      internalID: 1600672240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 583
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4cd129e26daeb428cda4f80c76c154
+      internalID: 1979898373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_158
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 596
+        width: 139
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3380f2f085c94b90531689b38adbf
+      internalID: 2061734181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_159
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 615
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50b827ede11e14ab0cfa1c0a882269
+      internalID: -1179498687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_160
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 533
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff92d1ecce341df40b8ba5d270aec05b
+      internalID: 1088707904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_161
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 536
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2629d6bdf90ca2645ba6909d3b9917d3
+      internalID: 1598742455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_162
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 533
+        width: 139
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf039100399aa1408e16e925fae0cfe
+      internalID: 1456451351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_163
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 574
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea31327f8831f4a81f60626fe567c5
+      internalID: -1319462465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_164
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 525
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444851bfc53f91740bb57ee15aab5ff2
+      internalID: 636672765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_165
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 530
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5230915b2e447cf41a151b6674b3bfe5
+      internalID: -799605111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_166
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 532
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376d703b4194393468c22ca3850fb155
+      internalID: 544450101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_167
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 525
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5040962b4053149bee6c65c518616c
+      internalID: 1660891034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_168
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 369
+        width: 175
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb5b9c7267a79941aacc64bcdc0c089
+      internalID: 2064115323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_169
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 465
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14a634f985787344bf9228bd40e2d0f
+      internalID: 1873300962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_170
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 465
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d561302006ae694488608b441a2ccea1
+      internalID: 1851371528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_171
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 465
+        width: 79
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f477cc3ede177d4990ab2f13e1e0cc9
+      internalID: -1483179123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_172
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 465
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaead6c94e48a84da36fdc1b0001355
+      internalID: 1991797644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_173
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 465
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dfd15e19de45f42b51b7b82c3d693d
+      internalID: 1612815465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_174
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 465
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3736324309851c34fb9311c1d20d5149
+      internalID: -1093910535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_175
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 465
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4643eff13204b545aaff2c84f369571
+      internalID: -1421239490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_176
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 465
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0821e66853d7f2438dcf905abb24d66
+      internalID: -999405070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_177
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 465
+        width: 188
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b915d2f303c574f8ff1bf67db0bd65
+      internalID: -888227681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_178
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 465
+        width: 79
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c1712b96dac664986309972fa26586
+      internalID: -1840576688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_179
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 433
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31bdb634dfe00747967ee6c550ca3aa
+      internalID: -1229774356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_180
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 432
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8f97e382baab64e89ada89741120ad
+      internalID: 1313880743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_181
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 433
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a62fa52010d27346806fb9210f8b7e0
+      internalID: 634997138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_182
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 432
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599a81f268620e6488ee42eb3fc5a0a6
+      internalID: 2007153204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_183
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 433
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49daf7fd2527ce645907af117579d308
+      internalID: 1077106712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_184
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 432
+        width: 104
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2061d0e5f8ff847bd4e9e41360b9a5
+      internalID: 1383342681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_185
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 432
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1a8802ca8ad8e4995dd325ac7ad814
+      internalID: -1146239416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_186
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 432
+        width: 79
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d15ef74a0d958b4a8b10ea1b6235440
+      internalID: -1863500450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_187
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 433
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1102cc7d55e0b7c4da6fa96cf11299da
+      internalID: 1793990302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_188
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 430
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb007d876fc39e345a4bf307ba359343
+      internalID: -625535105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_189
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 432
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2903861e09a042648a0b179476a70533
+      internalID: 1367674165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_190
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 432
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf57224226f2e4a809f3105e15356a
+      internalID: 1251740812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_191
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 430
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90fd9bcd1ddc0469a943255fe07c6b
+      internalID: 422932469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_192
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 400
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d673dd62a2ace4caff38d5d11a17b1
+      internalID: -2056007914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_193
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 401
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ba0f30dadc924a9c7a24640d796a4
+      internalID: 1651789353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_194
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 400
+        width: 180
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d924fe12d894045b990c352ed471c4
+      internalID: 1117592831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_195
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 401
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e49a0fff47a5740bdccb2d8cfa834f
+      internalID: -1661420313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_196
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 400
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d88cc7b54c8a04e974eba2131ab803
+      internalID: -605868038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_197
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 398
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a32a684fcdb4f48aa0d4d8dcce3025
+      internalID: 1492763615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_198
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 400
+        width: 78
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd2af2fc4cb1ac4c91bd80ee7b87e3a
+      internalID: 169499609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_199
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 401
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe629bfb9a6547748b1e53477e02635a
+      internalID: 580367637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_200
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 400
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf852a65149db349ace788bf178e558
+      internalID: 724002138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_201
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 400
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75118fb09425e7c489dc78e0ae18d58d
+      internalID: -759419440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_202
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 401
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9221dd96fdb11fc46a4025207772614c
+      internalID: -1261562781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_203
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 367
+        width: 123
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f25a89d5dd30d4c8dea4903734ea33
+      internalID: -2002980064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_204
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 42
+        width: 320
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c69a6e45266340804e014b2403fa8
+      internalID: 1408461351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_205
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 36
+        width: 299
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204c94078b8423244b5882cea35d873d
+      internalID: -1055531508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_206
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 139
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ea64e254ff42146859aca2ef77e787
+      internalID: 1641028793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_207
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1716
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5675bc833b8cd7469dc7b521ad641dc
+      internalID: 730919962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_208
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1819
+        width: 208
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46039d04ed274b48bf3d98891cd89ab
+      internalID: 1745529790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_209
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1792
+        width: 252
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8548fdfb60fa42a8018b2580065e4
+      internalID: 294063615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_210
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1925
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857fab2258611734f979acf76409b654
+      internalID: -1950848696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_211
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1885
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab462ec6c411d249a335fbfc222f176
+      internalID: -264706980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_212
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1970
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9a521980d94eb4f9c0b3ca8f7a83a0
+      internalID: 968128469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_213
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1971
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d27c61aa24de474fb904653fa2b8c99
+      internalID: -981059153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_214
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1987
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c59a17b930bbd47b46970c8fa9b737
+      internalID: 2070513928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_215
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2035
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee063d19c6335a4f945e9eff2fd06b0
+      internalID: -1238478596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_216
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1895
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9e8276d779ac2438cc456aaebc1b27
+      internalID: 715234705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_217
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1888
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818457fe97c404489074a138f2b2210
+      internalID: -76556772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_218
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1891
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d8d27e660a7fa4b889125927b78100
+      internalID: -1144728975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_219
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1804
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192517b6f412bd43b2db67de292e12d
+      internalID: -798973039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_220
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1825
+        width: 251
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ef07cb4cde7449878b59c4c4fa4c8
+      internalID: -222064400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_221
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1729
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc02ad7a94411014d8741ee9c155ecdd
+      internalID: 876297072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_222
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1641
+        width: 86
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df2e9e5622fe1489fbfce205c0a922
+      internalID: -2047923305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_223
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1564
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bc8c956555cda46a242ed75513aaea
+      internalID: -1663261903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_224
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1585
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0280b7416f17d4499829417afbe6547
+      internalID: -2091261008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_225
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1608
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6845625ea8b8f4fbe23b794eafc9fb
+      internalID: 363718501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_226
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1587
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d84c070908244548a5ae06391278125
+      internalID: 726008125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_227
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1799
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce53f64853320cb4ba44f9a7ac1bf80a
+      internalID: -707689652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_228
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1698
+        width: 87
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c6b7f5e1121e4d9593a4260ff1cf6
+      internalID: -782574910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_229
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1544
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca3a6f1e06b0484c9dfcdfa5ae18812
+      internalID: -1209678619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_230
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1631
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f34abcf9bcde994e8263e89610447a3
+      internalID: 1205543074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_231
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1625
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0f0c90c9e542c40a84a3aff34bf02c
+      internalID: -631411796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_232
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1561
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f22d0a1abd2e0409039dd61ef567ea
+      internalID: 1238024185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_233
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1842
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d250a381373545ae31f4adba3ef7d
+      internalID: 1040950906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_234
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1506
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799522bbb7eec08469b549f80700df8a
+      internalID: -1403455042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_235
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1652
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e68ff0aab30984f86d5ac625bbe811
+      internalID: -1110365960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_236
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1652
+        width: 14
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79ff105337e36746a8ee36711917bac
+      internalID: -235438658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_237
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 944
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971217e04fa5934283efd7f104cbfc2
+      internalID: 322391797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_238
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1214
+        width: 133
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dfd485673c43849b628c719f56a5f0
+      internalID: -217323121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_239
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1205
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52668feb8600c2e4ea9ae93f03c82d9c
+      internalID: -1419020753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_240
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1345
+        width: 179
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3736b02c7866304ebd93f9472658f59
+      internalID: -1577839727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_241
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 159
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50d6ba11d5adf640a1c0b0befd55dba
+      internalID: 1620371980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_242
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 251
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f0aa5538defa141a1f2aee6546c61f
+      internalID: 1192758402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Birds Blocks & Objects_243
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 160
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64a3c713bfa064ca42bb6a675a67df
+      internalID: 1612956101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -554.5, y: 942}
+      - {x: -554.5, y: 1026}
+      - {x: -469.5, y: 1026}
+      - {x: -469.5, y: 942}
+    - - {x: -467.5, y: 944}
+      - {x: -467.5, y: 1027}
+      - {x: -384.5, y: 1027}
+      - {x: -384.5, y: 944}
+    - - {x: -303.5, y: 862}
+      - {x: -303.5, y: 945}
+      - {x: -219.5, y: 945}
+      - {x: -219.5, y: 862}
+    - - {x: -382.5, y: 817}
+      - {x: -382.5, y: 860}
+      - {x: -338.5, y: 860}
+      - {x: -338.5, y: 817}
+    - - {x: 294.5, y: 942}
+      - {x: 294.5, y: 1025}
+      - {x: 378.5, y: 1025}
+      - {x: 378.5, y: 942}
+    - - {x: 381.5, y: 944}
+      - {x: 381.5, y: 1027}
+      - {x: 464.5, y: 1027}
+      - {x: 464.5, y: 944}
+    - - {x: 548.5, y: 1004}
+      - {x: 548.5, y: 1027}
+      - {x: 571.5, y: 1027}
+      - {x: 571.5, y: 1004}
+    - - {x: 745.5, y: 710}
+      - {x: 745.5, y: 795}
+      - {x: 830.5, y: 795}
+      - {x: 830.5, y: 710}
+    - - {x: 621.5, y: 710}
+      - {x: 621.5, y: 792}
+      - {x: 742.5, y: 792}
+      - {x: 742.5, y: 710}
+    - - {x: 118.5, y: 782}
+      - {x: 118.5, y: 856}
+      - {x: 192.5, y: 856}
+      - {x: 192.5, y: 782}
+    - - {x: 280.5, y: 763}
+      - {x: 280.5, y: 785}
+      - {x: 532.5, y: 785}
+      - {x: 532.5, y: 763}
+    - - {x: -253.5, y: 794}
+      - {x: -253.5, y: 817}
+      - {x: -1.5, y: 817}
+      - {x: -1.5, y: 794}
+    - - {x: -995.5, y: 48}
+      - {x: -995.5, y: 173}
+      - {x: -863.5, y: 173}
+      - {x: -863.5, y: 48}
+    - - {x: -998.5, y: -84}
+      - {x: -998.5, y: 44}
+      - {x: -863.5, y: 44}
+      - {x: -863.5, y: -84}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Angry Birds Blocks & Objects_0: 1985542396
+      Angry Birds Blocks & Objects_1: -1942621263
+      Angry Birds Blocks & Objects_10: 1756992981
+      Angry Birds Blocks & Objects_100: -1437207337
+      Angry Birds Blocks & Objects_101: 155869795
+      Angry Birds Blocks & Objects_102: 821765231
+      Angry Birds Blocks & Objects_103: 429342758
+      Angry Birds Blocks & Objects_104: -991188317
+      Angry Birds Blocks & Objects_105: 974212653
+      Angry Birds Blocks & Objects_106: -1066032080
+      Angry Birds Blocks & Objects_107: -1011681888
+      Angry Birds Blocks & Objects_108: -1039773432
+      Angry Birds Blocks & Objects_109: -742557706
+      Angry Birds Blocks & Objects_11: 451045385
+      Angry Birds Blocks & Objects_110: -1634959123
+      Angry Birds Blocks & Objects_111: -1981294251
+      Angry Birds Blocks & Objects_112: 1204014124
+      Angry Birds Blocks & Objects_113: -310893308
+      Angry Birds Blocks & Objects_114: -827465189
+      Angry Birds Blocks & Objects_115: -678210083
+      Angry Birds Blocks & Objects_116: -1897793847
+      Angry Birds Blocks & Objects_117: 1828054550
+      Angry Birds Blocks & Objects_118: 387836365
+      Angry Birds Blocks & Objects_119: -549040345
+      Angry Birds Blocks & Objects_12: 1216280330
+      Angry Birds Blocks & Objects_120: 427716448
+      Angry Birds Blocks & Objects_121: 843110696
+      Angry Birds Blocks & Objects_122: 1527945274
+      Angry Birds Blocks & Objects_123: -1817482316
+      Angry Birds Blocks & Objects_124: -1428026587
+      Angry Birds Blocks & Objects_125: -879684341
+      Angry Birds Blocks & Objects_126: -854935502
+      Angry Birds Blocks & Objects_127: -495525166
+      Angry Birds Blocks & Objects_128: -938273094
+      Angry Birds Blocks & Objects_129: -822926820
+      Angry Birds Blocks & Objects_13: -285514694
+      Angry Birds Blocks & Objects_130: -1509845367
+      Angry Birds Blocks & Objects_131: 1810879569
+      Angry Birds Blocks & Objects_132: 1863716472
+      Angry Birds Blocks & Objects_133: -1840495004
+      Angry Birds Blocks & Objects_134: -468617239
+      Angry Birds Blocks & Objects_135: -905505422
+      Angry Birds Blocks & Objects_136: -1177091510
+      Angry Birds Blocks & Objects_137: 1167038379
+      Angry Birds Blocks & Objects_138: -1136063505
+      Angry Birds Blocks & Objects_139: 1152911284
+      Angry Birds Blocks & Objects_14: -183815405
+      Angry Birds Blocks & Objects_140: 1873888026
+      Angry Birds Blocks & Objects_141: -220001086
+      Angry Birds Blocks & Objects_142: -323384730
+      Angry Birds Blocks & Objects_143: 2066954866
+      Angry Birds Blocks & Objects_144: -1920680523
+      Angry Birds Blocks & Objects_145: -1243618996
+      Angry Birds Blocks & Objects_146: -602588863
+      Angry Birds Blocks & Objects_147: 59388127
+      Angry Birds Blocks & Objects_148: -532871589
+      Angry Birds Blocks & Objects_149: -1901289693
+      Angry Birds Blocks & Objects_15: 1797448526
+      Angry Birds Blocks & Objects_150: -2050423339
+      Angry Birds Blocks & Objects_151: -1284666375
+      Angry Birds Blocks & Objects_152: -1825643612
+      Angry Birds Blocks & Objects_153: 1897457518
+      Angry Birds Blocks & Objects_154: -1833639797
+      Angry Birds Blocks & Objects_155: 1188981559
+      Angry Birds Blocks & Objects_156: 1600672240
+      Angry Birds Blocks & Objects_157: 1979898373
+      Angry Birds Blocks & Objects_158: 2061734181
+      Angry Birds Blocks & Objects_159: -1179498687
+      Angry Birds Blocks & Objects_16: 2027752305
+      Angry Birds Blocks & Objects_160: 1088707904
+      Angry Birds Blocks & Objects_161: 1598742455
+      Angry Birds Blocks & Objects_162: 1456451351
+      Angry Birds Blocks & Objects_163: -1319462465
+      Angry Birds Blocks & Objects_164: 636672765
+      Angry Birds Blocks & Objects_165: -799605111
+      Angry Birds Blocks & Objects_166: 544450101
+      Angry Birds Blocks & Objects_167: 1660891034
+      Angry Birds Blocks & Objects_168: 2064115323
+      Angry Birds Blocks & Objects_169: 1873300962
+      Angry Birds Blocks & Objects_17: -122456212
+      Angry Birds Blocks & Objects_170: 1851371528
+      Angry Birds Blocks & Objects_171: -1483179123
+      Angry Birds Blocks & Objects_172: 1991797644
+      Angry Birds Blocks & Objects_173: 1612815465
+      Angry Birds Blocks & Objects_174: -1093910535
+      Angry Birds Blocks & Objects_175: -1421239490
+      Angry Birds Blocks & Objects_176: -999405070
+      Angry Birds Blocks & Objects_177: -888227681
+      Angry Birds Blocks & Objects_178: -1840576688
+      Angry Birds Blocks & Objects_179: -1229774356
+      Angry Birds Blocks & Objects_18: 415564818
+      Angry Birds Blocks & Objects_180: 1313880743
+      Angry Birds Blocks & Objects_181: 634997138
+      Angry Birds Blocks & Objects_182: 2007153204
+      Angry Birds Blocks & Objects_183: 1077106712
+      Angry Birds Blocks & Objects_184: 1383342681
+      Angry Birds Blocks & Objects_185: -1146239416
+      Angry Birds Blocks & Objects_186: -1863500450
+      Angry Birds Blocks & Objects_187: 1793990302
+      Angry Birds Blocks & Objects_188: -625535105
+      Angry Birds Blocks & Objects_189: 1367674165
+      Angry Birds Blocks & Objects_19: 1397394937
+      Angry Birds Blocks & Objects_190: 1251740812
+      Angry Birds Blocks & Objects_191: 422932469
+      Angry Birds Blocks & Objects_192: -2056007914
+      Angry Birds Blocks & Objects_193: 1651789353
+      Angry Birds Blocks & Objects_194: 1117592831
+      Angry Birds Blocks & Objects_195: -1661420313
+      Angry Birds Blocks & Objects_196: -605868038
+      Angry Birds Blocks & Objects_197: 1492763615
+      Angry Birds Blocks & Objects_198: 169499609
+      Angry Birds Blocks & Objects_199: 580367637
+      Angry Birds Blocks & Objects_2: 1673640487
+      Angry Birds Blocks & Objects_20: 1768704193
+      Angry Birds Blocks & Objects_200: 724002138
+      Angry Birds Blocks & Objects_201: -759419440
+      Angry Birds Blocks & Objects_202: -1261562781
+      Angry Birds Blocks & Objects_203: -2002980064
+      Angry Birds Blocks & Objects_204: 1408461351
+      Angry Birds Blocks & Objects_205: -1055531508
+      Angry Birds Blocks & Objects_206: 1641028793
+      Angry Birds Blocks & Objects_207: 730919962
+      Angry Birds Blocks & Objects_208: 1745529790
+      Angry Birds Blocks & Objects_209: 294063615
+      Angry Birds Blocks & Objects_21: 2142363533
+      Angry Birds Blocks & Objects_210: -1950848696
+      Angry Birds Blocks & Objects_211: -264706980
+      Angry Birds Blocks & Objects_212: 968128469
+      Angry Birds Blocks & Objects_213: -981059153
+      Angry Birds Blocks & Objects_214: 2070513928
+      Angry Birds Blocks & Objects_215: -1238478596
+      Angry Birds Blocks & Objects_216: 715234705
+      Angry Birds Blocks & Objects_217: -76556772
+      Angry Birds Blocks & Objects_218: -1144728975
+      Angry Birds Blocks & Objects_219: -798973039
+      Angry Birds Blocks & Objects_22: -1350711583
+      Angry Birds Blocks & Objects_220: -222064400
+      Angry Birds Blocks & Objects_221: 876297072
+      Angry Birds Blocks & Objects_222: -2047923305
+      Angry Birds Blocks & Objects_223: -1663261903
+      Angry Birds Blocks & Objects_224: -2091261008
+      Angry Birds Blocks & Objects_225: 363718501
+      Angry Birds Blocks & Objects_226: 726008125
+      Angry Birds Blocks & Objects_227: -707689652
+      Angry Birds Blocks & Objects_228: -782574910
+      Angry Birds Blocks & Objects_229: -1209678619
+      Angry Birds Blocks & Objects_23: -1341746333
+      Angry Birds Blocks & Objects_230: 1205543074
+      Angry Birds Blocks & Objects_231: -631411796
+      Angry Birds Blocks & Objects_232: 1238024185
+      Angry Birds Blocks & Objects_233: 1040950906
+      Angry Birds Blocks & Objects_234: -1403455042
+      Angry Birds Blocks & Objects_235: -1110365960
+      Angry Birds Blocks & Objects_236: -235438658
+      Angry Birds Blocks & Objects_237: 322391797
+      Angry Birds Blocks & Objects_238: -217323121
+      Angry Birds Blocks & Objects_239: -1419020753
+      Angry Birds Blocks & Objects_24: 622770676
+      Angry Birds Blocks & Objects_240: -1577839727
+      Angry Birds Blocks & Objects_241: 1620371980
+      Angry Birds Blocks & Objects_242: 1192758402
+      Angry Birds Blocks & Objects_243: 1612956101
+      Angry Birds Blocks & Objects_25: 915063062
+      Angry Birds Blocks & Objects_26: 160594314
+      Angry Birds Blocks & Objects_27: -1642952075
+      Angry Birds Blocks & Objects_28: 1834567253
+      Angry Birds Blocks & Objects_29: 1731926257
+      Angry Birds Blocks & Objects_3: 1218796552
+      Angry Birds Blocks & Objects_30: -1382762786
+      Angry Birds Blocks & Objects_31: -268140482
+      Angry Birds Blocks & Objects_32: -1959131379
+      Angry Birds Blocks & Objects_33: -324272960
+      Angry Birds Blocks & Objects_34: -25797945
+      Angry Birds Blocks & Objects_35: 1158302983
+      Angry Birds Blocks & Objects_36: 809166108
+      Angry Birds Blocks & Objects_37: -573179536
+      Angry Birds Blocks & Objects_38: -765476412
+      Angry Birds Blocks & Objects_39: -1547701621
+      Angry Birds Blocks & Objects_4: 1612176583
+      Angry Birds Blocks & Objects_40: 108561396
+      Angry Birds Blocks & Objects_41: -1871858972
+      Angry Birds Blocks & Objects_42: 1058735709
+      Angry Birds Blocks & Objects_43: -1851681549
+      Angry Birds Blocks & Objects_44: -1207152487
+      Angry Birds Blocks & Objects_45: 704535033
+      Angry Birds Blocks & Objects_46: -1527972048
+      Angry Birds Blocks & Objects_47: -1727830364
+      Angry Birds Blocks & Objects_48: -486531326
+      Angry Birds Blocks & Objects_49: 1090814371
+      Angry Birds Blocks & Objects_5: -1024720944
+      Angry Birds Blocks & Objects_50: -1977575797
+      Angry Birds Blocks & Objects_51: 371812452
+      Angry Birds Blocks & Objects_52: 1604867924
+      Angry Birds Blocks & Objects_53: 951232499
+      Angry Birds Blocks & Objects_54: -1549204102
+      Angry Birds Blocks & Objects_55: -2020762671
+      Angry Birds Blocks & Objects_56: -2068624288
+      Angry Birds Blocks & Objects_57: -103964396
+      Angry Birds Blocks & Objects_58: -1043520713
+      Angry Birds Blocks & Objects_59: 568231106
+      Angry Birds Blocks & Objects_6: 1899788320
+      Angry Birds Blocks & Objects_60: -244133875
+      Angry Birds Blocks & Objects_61: -1314439763
+      Angry Birds Blocks & Objects_62: 1677525397
+      Angry Birds Blocks & Objects_63: 1642235440
+      Angry Birds Blocks & Objects_64: -985320568
+      Angry Birds Blocks & Objects_65: 938930264
+      Angry Birds Blocks & Objects_66: 1134529286
+      Angry Birds Blocks & Objects_67: -170319061
+      Angry Birds Blocks & Objects_68: 406638453
+      Angry Birds Blocks & Objects_69: 2108676166
+      Angry Birds Blocks & Objects_7: 126398929
+      Angry Birds Blocks & Objects_70: -1061888688
+      Angry Birds Blocks & Objects_71: 798238559
+      Angry Birds Blocks & Objects_72: -1097803580
+      Angry Birds Blocks & Objects_73: 1754514995
+      Angry Birds Blocks & Objects_74: -620689124
+      Angry Birds Blocks & Objects_75: 1926223602
+      Angry Birds Blocks & Objects_76: -853103771
+      Angry Birds Blocks & Objects_77: 373577969
+      Angry Birds Blocks & Objects_78: 2052639202
+      Angry Birds Blocks & Objects_79: 1060211900
+      Angry Birds Blocks & Objects_8: -791040957
+      Angry Birds Blocks & Objects_80: 377350407
+      Angry Birds Blocks & Objects_81: 1352699993
+      Angry Birds Blocks & Objects_82: -1983460444
+      Angry Birds Blocks & Objects_83: -437310145
+      Angry Birds Blocks & Objects_84: 1599676907
+      Angry Birds Blocks & Objects_85: -603734550
+      Angry Birds Blocks & Objects_86: -1971524964
+      Angry Birds Blocks & Objects_87: 444587803
+      Angry Birds Blocks & Objects_88: 1291262780
+      Angry Birds Blocks & Objects_89: -753691965
+      Angry Birds Blocks & Objects_9: -317777279
+      Angry Birds Blocks & Objects_90: 889333427
+      Angry Birds Blocks & Objects_91: -1177740508
+      Angry Birds Blocks & Objects_92: 487631208
+      Angry Birds Blocks & Objects_93: -1328330742
+      Angry Birds Blocks & Objects_94: 1876661679
+      Angry Birds Blocks & Objects_95: -1049557690
+      Angry Birds Blocks & Objects_96: 535855694
+      Angry Birds Blocks & Objects_97: 218281720
+      Angry Birds Blocks & Objects_98: 1655683007
+      Angry Birds Blocks & Objects_99: -1331750860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

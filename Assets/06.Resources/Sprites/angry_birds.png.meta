@@ -1,0 +1,3229 @@
+fileFormatVersion: 2
+guid: 6bcc64d031656db4a89b6362853f20d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angry_birds_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2363
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3a53237994212429a7fbe65c74d465
+      internalID: -375313583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2361
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f7c9fe7c8c87147adfee46d46bb7c8
+      internalID: 2072594962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2360
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3a598e8c59cd47bfce0511078f779
+      internalID: 1188882250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2360
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dc3a6478719454caee3054c716c03c
+      internalID: -2017051528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2360
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0939cbb01f1d69d4d8ea9350bedd98d7
+      internalID: -1212891573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2269
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b405b16c52e554e88cff4f6b420566
+      internalID: 54053135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2268
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3df40f171125488d2d3480a728562
+      internalID: 122776162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2267
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd29cdba4c60ee24db9e46db3d5386d5
+      internalID: 1253942178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2266
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567ca2ff79554849837b72685409f15
+      internalID: 1702069242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2267
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc819685c42b614f8cb88bb9f4e74ce
+      internalID: 148709152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2184
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e06acffa2ad40468d412c0cceadc10
+      internalID: 1107998371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2183
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60055405840fb3428da13388ebcfb8a
+      internalID: 1447201305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2182
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94926263cae0d1c4d838d9da86992e1b
+      internalID: -657420992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2181
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e4acae9d5f68843a7624bc5bcae10f
+      internalID: -681484606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2182
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a1cb6a3e660484c904b9594ba54773
+      internalID: 1485054223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2089
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d939777dffccb84c848a21686350491
+      internalID: -2038509401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2092
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d7195c4692d114ca9a034a06154852
+      internalID: 1093167738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2089
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffbee436bc22b44c9c6d5f1eb998620
+      internalID: -1684439835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2088
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41281512fd69b064fbb5b0f406301c2a
+      internalID: -1059046976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2088
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a012c63607e2c409a577b5de7577ec
+      internalID: -71091829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2115
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9cee4d9fc5baf4594a76a649aa84f8
+      internalID: 1644147591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2014
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4300b0311041f45b24fa1b3130d812
+      internalID: -889447189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2012
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1144fc064f1ec41a6b241f96e0654d
+      internalID: -1363572122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2009
+        width: 91
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9439ee4965cdc7d40a528233ea097a43
+      internalID: 695428309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_24
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2014
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018fb26b16e3f96479f48d44ebb201d3
+      internalID: -796037540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2013
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bbfd4211e65014ba9a1295b50fae4d
+      internalID: 135945885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1916
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea527f2d3d5b71a4f9785576110274d9
+      internalID: -2088984873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1917
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8c6a094c0abc64c956f74d8cea4682
+      internalID: -1135495653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1917
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c07e108e02bc2419026acc82c4bf83
+      internalID: 1222772901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1917
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d7b25b6a890464b94ed5b725a893d8
+      internalID: -1893223973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1918
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ebe90343413fa4fa4bcb061fc5cb87
+      internalID: -1422396096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1820
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc380e88f2455444b9ddefb9df4d0200
+      internalID: 353861382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1820
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316010d3b1ba01843aad708379d4631c
+      internalID: 665796420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1820
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18239de0c6b22149880fee402dac8de
+      internalID: -1435979044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1820
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a07bf25d153b346acaeaa13e02d51c
+      internalID: 921799916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1822
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81b0e74b134faf4a88938192068346a
+      internalID: 1804189826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1731
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aee56a08fa4f1478fdf9ab0d1990f5
+      internalID: 85707187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1731
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918cd40c52ce464885c1f095e123277
+      internalID: 2124872027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1729
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a48635b48e000e4f8d7d1bf3209e610
+      internalID: 841351029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1731
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83b825e8a5b0841a7fc5ff590314c5
+      internalID: 1078792264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1730
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12359a07895650447942615b2877659b
+      internalID: 1379261036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1662
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e27964d40a12a4b8267bd57620a606
+      internalID: -1959320179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1661
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f46516429fadb540ab71d6b003e0b07
+      internalID: 1017519649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1662
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3686e900e9f6e438da5063b6779c8d
+      internalID: 1629185701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1661
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb59b37c4bca2b24d8bdf0d1b1e3f470
+      internalID: 1173065413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1661
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7b4983be7e21549845a9952f292498
+      internalID: -1580974231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_46
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1658
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba391af4a6c4a504b8c0044f4f020bd0
+      internalID: -636811786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1580
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d77cc1e33733240a46b6308170f284
+      internalID: 1685521315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1579
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa0a79a32db0d14f9eb261b78c30459
+      internalID: -452862270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_49
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1579
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d44d811fdba2d488c3e948d65dd6ec
+      internalID: 1538669110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1578
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b1cf4f69f312b4e83f099dff9730bc
+      internalID: 1811728699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1579
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ae763184490a4c8e0270afbcee345
+      internalID: 1389758943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1499
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2313795790f3284291dd383fb5962aa
+      internalID: -1029479359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1499
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c87eaf098b382c43ba4a2626d5f4c78
+      internalID: 2018396852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1498
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de99d93f920794b8149049152eab6d
+      internalID: -1940752486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_55
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1497
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c02c613c5fae49a0d8d067f9270ac
+      internalID: -1347029281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1498
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba2da9111b9a8243b881734238fad69
+      internalID: 1659962792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_57
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1421
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc9ed1f40ef387489224906d0c6d6a7
+      internalID: -1525716072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1421
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d2790701d63074dbf0ab9cf1a02e4a
+      internalID: -1560242061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_59
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1420
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5449bb7c73e616d4eba5da2db4255217
+      internalID: -1232560053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1419
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3942b30c7a829f54098aa5b2c21eadd8
+      internalID: -1391189844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_61
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1420
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882269a90bd31b840ba995e8f1961c57
+      internalID: -101015497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_62
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1340
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05284a5c9dcca74c9b8d596c13e1a8e
+      internalID: -1640601643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1338
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bd5d519822ed04bacfb2ad040207c7
+      internalID: 1936376960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1337
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31981c281a4b3c4ab36e411017375c6
+      internalID: 1227681384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1336
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5a1829865833c49bc0c796ecdff4ed
+      internalID: -1238560510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1337
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6c6755ca294e44fbc966abd975f136
+      internalID: 489549220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_67
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1245
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb29e37e09d91479ed42fac2a52c6e
+      internalID: -173751962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1244
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61640849679d54b8104be99e80cc9f
+      internalID: 1160751490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_69
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1243
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a01d06af5f674c8940fd80303cd23
+      internalID: -1810222971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_70
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1241
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e7708cd4636144b20991b47a94a59
+      internalID: -1704019229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1243
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7a94d459ca0654180afda33991ff9e
+      internalID: 124816477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_72
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1176
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b816fddf154ad45ae91cdbb1388497
+      internalID: 268909137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_73
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1174
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdb63f9a3d4f9043bbd9e06ec877b32
+      internalID: 690327624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1173
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7919dac98837be74abfe9465608af011
+      internalID: -395154209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1172
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a3d5ac5231350429dadf3a4dcaee4a
+      internalID: 1750278715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_76
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1173
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60da8dee128741a4d816b192cd8ef8e7
+      internalID: 572364810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1088
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492d0ee1d628cdc4281baee499fb7485
+      internalID: -1647891470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_78
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1087
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ede7461f879e2498de4c7745c3d78b
+      internalID: 128164173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_79
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1086
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299199871f4c0cb4391212f40c5388bb
+      internalID: 345616284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_80
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1085
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe44fb022ce6d9498b9015a54de1508
+      internalID: -106778360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_81
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1086
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6001e85be35ca5348841e0101aa9b857
+      internalID: -1850612359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_82
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1020
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203eeb6e922c4c843917ac3577153e40
+      internalID: 167726019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1019
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca07871460ce7e4790f3bc8aa628466
+      internalID: -2013695959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_84
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1020
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5900f8702b9f4e34bbfcc95660301ad2
+      internalID: -141088182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_85
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1019
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7cd7dd0177c2348992f88cd3048952
+      internalID: -1932364908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1019
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c554dbde0d6ac42909fbcc6bd02b9f
+      internalID: -1819109831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_87
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1016
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7119b5fdde5534b96c3f3e0acaec73
+      internalID: -1745574457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_88
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 946
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57267afb188d8c14692589f905e18400
+      internalID: -1090169794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_89
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 944
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a241efa224b137439afd36e98758818
+      internalID: -262219645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_90
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 943
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943095502c980543a737d6a49eb01ef
+      internalID: -304387590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_91
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 943
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a38a6d5c5691ff4cb29d1f0ea43ebc5
+      internalID: 1766743477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_92
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 943
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa56fb92b9cbaf24fb4326bc06fc7dda
+      internalID: -2076289678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_93
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 847
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb89ba51b34c646b227c9e9df98756
+      internalID: -955598352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_94
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 847
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0491d285943584a8475a47e64e44a8
+      internalID: -1907115140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_95
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 851
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fcf34ea72cf6040b4e690c703318fe
+      internalID: 1531880420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_96
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 851
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d329a65036ba6e4a8cfd076145281ab
+      internalID: -646175012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 851
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0ff85f0a79b24aa15114859cb69d4
+      internalID: 499294783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59818b497de2471408e79a51a624c8eb
+      internalID: 1848348764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_99
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 736
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74c6e0444da7d45b596e3beb55ad99
+      internalID: -1087045404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_100
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 740
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e2f278aac1b6f4fa10e1560107b693
+      internalID: -828871283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 738
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa20485876ea4343ae7b16a46531415
+      internalID: -195391341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_102
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 742
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6ce61cb234e8b4db11d990f12a8550
+      internalID: 62922242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_103
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 646
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916838528cd9f345b2209bcb2d6a3eb
+      internalID: 1461314437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_104
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 645
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398c95999db1c34b99721911d33bf99
+      internalID: 813994918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_105
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 647
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac6541320520c3449a903d62bbf3c3a
+      internalID: -1191110506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_106
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 647
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769c91d429fec8a418ce262d687aabbe
+      internalID: -1000051070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_107
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 649
+        width: 103
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e4c68ba13241844849baee28faeb34
+      internalID: 2106465900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_108
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 530
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a5593a8cbe5e4a85336303ebb3937
+      internalID: -1821753510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_109
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 530
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f2b1e4b46cd7e42ba84b094ca6a059
+      internalID: -912828545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_110
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 530
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e4f86830a88c41863c546a9ab2902
+      internalID: 1879726605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_111
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 452
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c54aa2803f91d4448a9151b1c8151d5
+      internalID: -1543369359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_112
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 450
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9acdbcbecb3654b97481b624101a1e
+      internalID: 1430057399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_113
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 453
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b59cb9280a78c459417899d9e3bb6d
+      internalID: 581624663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 453
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab272378d0ed02f40a6a723fbfdfbb14
+      internalID: -1840182452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_115
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 455
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a44028be8e1544b4c4447ad789398
+      internalID: -636269595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_116
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 362
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7836ef89025cc684c888a6809ddb6fe6
+      internalID: -385073202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_117
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 360
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bbe7481720f4e40989204ddb8aa3a5
+      internalID: -412192111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_118
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 362
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb6ed1a6cd47644fa9b86da54ea0a67
+      internalID: 1330769671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 364
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab89531ebc143e647977e7869d113aa0
+      internalID: -43866861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_120
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 365
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9cd362810f2004fa04ece1bc2bb71d
+      internalID: 1943703141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_121
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 277
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f5333b1b53b5e4ba783382ed13bebb
+      internalID: -1777242574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_122
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 276
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc58eaa1281264a9ed7832eff286bd
+      internalID: -1247580640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_123
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 276
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c961f4366458e247882285f7598576b
+      internalID: 272806567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_124
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 275
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b61baa7a9fccd4db06c297813c8376
+      internalID: 991906361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_125
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 276
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d9c20ba5b7ea42bea2d2bcac6a91b
+      internalID: -461758916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_126
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 198
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33461c4cb8cef204092df2659ed42458
+      internalID: 1321116581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_127
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 198
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf5429714caef4e917767c8c8413ff
+      internalID: -830264880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_128
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba781764e704d74fb6c55cf22f48649
+      internalID: -390455128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_129
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 196
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa2300dd5823184ab029c022967f80c
+      internalID: 458736766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_130
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 197
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadc6e3928774784ba95750a32c3902b
+      internalID: -466911350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_131
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 95
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b5023f0be7a6e4fb7f4a6aaff1aeef
+      internalID: -1471073978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_132
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 94
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3e19c1dfafc8448c9e6a5a96ebc2b
+      internalID: 44899797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_133
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 94
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398a6020288c89d4d93049f4379c25ff
+      internalID: 594323855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_134
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 93
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941544e94ecd39b4aac37622d3af7a95
+      internalID: 648888310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_135
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 94
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b770195c59ae843b0b6cbf287e767b
+      internalID: -506764602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_136
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 11
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e99ca2f13bbea47aa65c3225122ee4
+      internalID: 233802072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_137
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 9
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd59f179b9e9cc244a995047ffbd45df
+      internalID: -1335488669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_138
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3960710fb31346348acdc5ef44ba311a
+      internalID: -391810784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_139
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 8
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1755baec0d9d02f43a6862e8508ea093
+      internalID: 683762471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_birds_140
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 9
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daf1ad6ab50ef947b1ef5be3a1c3901
+      internalID: 1790904088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      angry_birds_0: -375313583
+      angry_birds_1: 2072594962
+      angry_birds_10: 1107998371
+      angry_birds_100: -828871283
+      angry_birds_101: -195391341
+      angry_birds_102: 62922242
+      angry_birds_103: 1461314437
+      angry_birds_104: 813994918
+      angry_birds_105: -1191110506
+      angry_birds_106: -1000051070
+      angry_birds_107: 2106465900
+      angry_birds_108: -1821753510
+      angry_birds_109: -912828545
+      angry_birds_11: 1447201305
+      angry_birds_110: 1879726605
+      angry_birds_111: -1543369359
+      angry_birds_112: 1430057399
+      angry_birds_113: 581624663
+      angry_birds_114: -1840182452
+      angry_birds_115: -636269595
+      angry_birds_116: -385073202
+      angry_birds_117: -412192111
+      angry_birds_118: 1330769671
+      angry_birds_119: -43866861
+      angry_birds_12: -657420992
+      angry_birds_120: 1943703141
+      angry_birds_121: -1777242574
+      angry_birds_122: -1247580640
+      angry_birds_123: 272806567
+      angry_birds_124: 991906361
+      angry_birds_125: -461758916
+      angry_birds_126: 1321116581
+      angry_birds_127: -830264880
+      angry_birds_128: -390455128
+      angry_birds_129: 458736766
+      angry_birds_13: -681484606
+      angry_birds_130: -466911350
+      angry_birds_131: -1471073978
+      angry_birds_132: 44899797
+      angry_birds_133: 594323855
+      angry_birds_134: 648888310
+      angry_birds_135: -506764602
+      angry_birds_136: 233802072
+      angry_birds_137: -1335488669
+      angry_birds_138: -391810784
+      angry_birds_139: 683762471
+      angry_birds_14: 1485054223
+      angry_birds_140: 1790904088
+      angry_birds_15: -2038509401
+      angry_birds_16: 1093167738
+      angry_birds_17: -1684439835
+      angry_birds_18: -1059046976
+      angry_birds_19: -71091829
+      angry_birds_2: 1188882250
+      angry_birds_20: 1644147591
+      angry_birds_21: -889447189
+      angry_birds_22: -1363572122
+      angry_birds_23: 695428309
+      angry_birds_24: -796037540
+      angry_birds_25: 135945885
+      angry_birds_26: -2088984873
+      angry_birds_27: -1135495653
+      angry_birds_28: 1222772901
+      angry_birds_29: -1893223973
+      angry_birds_3: -2017051528
+      angry_birds_30: -1422396096
+      angry_birds_31: 353861382
+      angry_birds_32: 665796420
+      angry_birds_33: -1435979044
+      angry_birds_34: 921799916
+      angry_birds_35: 1804189826
+      angry_birds_36: 85707187
+      angry_birds_37: 2124872027
+      angry_birds_38: 841351029
+      angry_birds_39: 1078792264
+      angry_birds_4: -1212891573
+      angry_birds_40: 1379261036
+      angry_birds_41: -1959320179
+      angry_birds_42: 1017519649
+      angry_birds_43: 1629185701
+      angry_birds_44: 1173065413
+      angry_birds_45: -1580974231
+      angry_birds_46: -636811786
+      angry_birds_47: 1685521315
+      angry_birds_48: -452862270
+      angry_birds_49: 1538669110
+      angry_birds_5: 54053135
+      angry_birds_50: 1811728699
+      angry_birds_51: 1389758943
+      angry_birds_52: -1029479359
+      angry_birds_53: 2018396852
+      angry_birds_54: -1940752486
+      angry_birds_55: -1347029281
+      angry_birds_56: 1659962792
+      angry_birds_57: -1525716072
+      angry_birds_58: -1560242061
+      angry_birds_59: -1232560053
+      angry_birds_6: 122776162
+      angry_birds_60: -1391189844
+      angry_birds_61: -101015497
+      angry_birds_62: -1640601643
+      angry_birds_63: 1936376960
+      angry_birds_64: 1227681384
+      angry_birds_65: -1238560510
+      angry_birds_66: 489549220
+      angry_birds_67: -173751962
+      angry_birds_68: 1160751490
+      angry_birds_69: -1810222971
+      angry_birds_7: 1253942178
+      angry_birds_70: -1704019229
+      angry_birds_71: 124816477
+      angry_birds_72: 268909137
+      angry_birds_73: 690327624
+      angry_birds_74: -395154209
+      angry_birds_75: 1750278715
+      angry_birds_76: 572364810
+      angry_birds_77: -1647891470
+      angry_birds_78: 128164173
+      angry_birds_79: 345616284
+      angry_birds_8: 1702069242
+      angry_birds_80: -106778360
+      angry_birds_81: -1850612359
+      angry_birds_82: 167726019
+      angry_birds_83: -2013695959
+      angry_birds_84: -141088182
+      angry_birds_85: -1932364908
+      angry_birds_86: -1819109831
+      angry_birds_87: -1745574457
+      angry_birds_88: -1090169794
+      angry_birds_89: -262219645
+      angry_birds_9: 148709152
+      angry_birds_90: -304387590
+      angry_birds_91: 1766743477
+      angry_birds_92: -2076289678
+      angry_birds_93: -955598352
+      angry_birds_94: -1907115140
+      angry_birds_95: 1531880420
+      angry_birds_96: -646175012
+      angry_birds_97: 499294783
+      angry_birds_98: 1848348764
+      angry_birds_99: -1087045404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
